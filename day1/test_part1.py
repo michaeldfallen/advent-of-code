@@ -1,5 +1,5 @@
 import pytest
-from part1 import parseInput, calculate
+from .part1 import parseInput, calculate
 
 
 def test_parseInput():
